@@ -1,0 +1,5 @@
+- This repo is a reflection of my own personal experementations from what i am learning
+- I will be testing manipulating and applying everything i havve learnt
+- I aim to instill the knowledge and master concepts in doing so
+- I will be using the python language in my proccessing so i will learn algorithms
+- I want to use these as my library and come back to it regular also
